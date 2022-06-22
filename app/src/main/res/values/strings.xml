@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">eaarb</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="welcome_to_our_world">Welcome to our world</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="create_new_account1">Create new account</string>
+    <string name="add_image">Add_image</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_in1">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="server">Server</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="textview">TextView</string>
+    <string name="change_image">Change image</string>
+    <string name="edit_password">Edit Password</string>
+    <string name="your_password_now">your password now</string>
+    <string name="edit_server">Edit Server</string>
+    <string name="edit_information">Edit information</string>
+    <string name="if_you_edit_your_information_you_disconnected">If you edit your information you disconnected</string>
+    <string name="my_contacts">My Contacts</string>
+    <string name="BaseUrl">http://10.0.2.2:5192/api/</string>
+</resources>
